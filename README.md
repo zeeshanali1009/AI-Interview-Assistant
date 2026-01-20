@@ -1,5 +1,5 @@
 
-## 🧠 AI‑Interview‑Assistant — Project Description
+## 🧠 AI‑Interview‑Assistant 
 
 **AI‑Interview‑Assistant** is a Python‑based application that helps users practice, prepare, and improve for job interviews using artificial intelligence. It leverages AI models to generate interview questions, simulate interview interactions, provide feedback, and assist users in sharpening their interview skills — covering both technical and behavioral questions.
 
